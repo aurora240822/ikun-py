@@ -4,10 +4,10 @@ import cv2
 import subprocess
 from cv2 import VideoWriter_fourcc
 import numpy as np
-import requests
+
 import time
 from PIL import Image, ImageFont, ImageDraw
-import pygame
+
 
 Abs_Dir_Path = os.path.dirname(os.path.abspath(__file__))
 
@@ -28,10 +28,10 @@ class Video2CodeVideo:
         self.check_network()
         # 获取命令行参数
         self.config_dict.update(self.get_args().__dict__)
-        # 获取命令行参数
+        # 获取命令行参数,目前没用，26年更新
     def get_args(self):
         parser = argparse.ArgumentParser()
-        parser.add_argument("--input_file", type=str, default="./assets/test.mp4")
+        parser.add_argument("--input_file", type=str, default="./assets/basketball.mp4")
         #parser.add_argument("--cache_dir", type=str, default=os.path.join(Abs_Dir_Path, "/cache"), help="cache")
         parser.add_argument("--save_cache_flag", type=bool, default=True)
         parser.add_argument("--use_gpu", type=bool, default=False)
