@@ -3,6 +3,9 @@
  24-8-23
  临时提交，部分代码来源b站，网络，gpt
 
+ 初步体验，**setup.py** **ikun.py**(转字符画视频) ** cxk1.py**
+ 目前这三个能用，其余等待开发
+
 # 初步协议
 <details>
   <summary>声明-LICENSE</summary>
