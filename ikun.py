@@ -228,3 +228,7 @@ class Video2CodeVideo:
 if __name__ == '__main__':
     obj = Video2CodeVideo()
     obj.main_logic()
+    import subprocess
+    #cmd启动视频
+    subprocess.call(os.path.join(os.getcwd(),'assets', 'test-txt.mp4'), shell=True)
+    
