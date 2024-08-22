@@ -1,18 +1,15 @@
 
 # ikun
-
-
-
-
-
+ 24-8-23
+ 临时提交，部分代码来源b站，网络，gpt
 
 # 初步协议
 <details>
   <summary>声明-LICENSE</summary>
   
 
-中文简体
-# 部分代码摘自sycc模块，根据该模块LINENSE说明需要，这里已著名
+## 中文简体
+### 部分代码摘自sycc模块，根据该模块LINENSE说明需要，这里已著名
 代码可以改动，但要保留作者来源
 未尽事宜，请参考https://github.com/ 地址待定
 mp3来源 https://www.gequbao.com/music   ，  请勿用于商业用途，其他说明见该网站
@@ -22,8 +19,8 @@ mp3来源 https://www.gequbao.com/music   ，  请勿用于商业用途，其他
 
 
 
-American English.
-# Part of the code is extracted from the sycc module, according to the module LINENSE instructions need, here has been remarked!
+## American English.
+### Part of the code is extracted from the sycc module, according to the module LINENSE instructions need, here has been remarked!
 Code can be changed, but to retain the author of the source
 For further information, please refer to https://github.com/ address to be determined.
 mp3 is from https://www.gequbao.com/music for non-commercial use, see this site for additional instructions of the mp3.
@@ -34,7 +31,7 @@ THERE IS NO ANY responsibilities and obligations for ANY Technology support!
 AND THE AUTHOR WILL NOT own The obligation to bear any responsibility DOR YOUR FAULT
 Translated with www.DeepL.com/Translator (free version)
 
-日本語
+## 日本語
 日本人と犬の糞はダウンロードできない，ということです
 以下の契約を守らない限り：
 
@@ -52,7 +49,7 @@ Translated with www.DeepL.com/Translator (free version)
 
 
 
-한국어
+## 한국어
 
 # 일부 코드는 sycc 모듈에서 발췌되었으며, 이 모듈의 LINENSE 설명에 따라 유명합니다.
 
